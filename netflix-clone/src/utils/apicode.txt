@@ -1,0 +1,4 @@
+google api = AIzaSyCrR81jMKlxa1emFaE-bbnXmsFbmRQIFq8
+
+
+tmdb api = 881438e8f2b249d8a4482087cb10e6c2
